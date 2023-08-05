@@ -13,8 +13,8 @@ C заданием можно ознакомиться [здесь](https://gith
 
 ### Мобильная версия
 
-<img src="https://github.com/Gitaristium/uptify-vue/blob/main/public/img/git/screenshot-5.png?raw=true" width=300/>
-<img src="https://github.com/Gitaristium/uptify-vue/blob/main/public/img/git/screenshot-6.png?raw=true" width=300/>
+<img src="https://github.com/Gitaristium/uptify-vue/blob/main/public/img/git/screenshot-3.png?raw=true" width=300/>
+<img src="https://github.com/Gitaristium/uptify-vue/blob/main/public/img/git/screenshot-4.png?raw=true" width=300/>
 
 ## Доступные команды
 
