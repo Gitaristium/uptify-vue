@@ -22,18 +22,15 @@ C заданием можно ознакомиться [здесь](https://gith
 
 Обязательно установите зависимости:
 
-``bash
+```
 
 # npm
-
 npm install
 
 # pnpm
-
 pnpm install
 
 # yarn
-
 yarn install
 
 ```
@@ -42,7 +39,7 @@ yarn install
 
 Запустите сервер разработки на `http://localhost:3000`:
 
-``bash
+```
 # npm
 npm run dev
 
@@ -57,25 +54,22 @@ yarn dev
 
 Соберите приложение для производства:
 
-``bash
+```
 
 # npm
-
 npm run build
 
 # pnpm
-
 pnpm run build
 
 # yarn
-
 yarn build
 
 ```
 
 Локальный предварительный просмотр производственной сборки:
 
-``bash
+```
 # npm
 npm run preview
 
@@ -83,7 +77,7 @@ npm run preview
 pnpm run preview
 
 # yarn
-предварительный просмотр yarn
+yarn preview
 ```
 
 Более подробную информацию можно найти в [документации по развертыванию](https://nuxt.com/docs/getting-started/deployment).
